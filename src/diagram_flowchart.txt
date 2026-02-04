@@ -1,0 +1,18 @@
+[ START ] 
+    |
+    v
+[ Logowanie użytkownika ]
+    |
+    v
+[ Wybór dnia w kalendarzu ] <-----------+
+    |                                   |
+    v                                   |
+[ Dodanie zadania do zrobienia ]        |
+    |                                   |
+    v                                   |
+[ Czy zadanie gotowe? ] ---- NIE -------+
+    |
+   TAK
+    |
+    v
+[ KONIEC - GRATULACJE! ]

@@ -1,0 +1,1 @@
+Projekt to prosta aplikacja, która pomaga studentom planować naukę. Rozwiązuje ona problem bałaganu w notatkach i zapominania o terminach. Aplikacja jest dla osób w wieku 18-25 lat. W środku znajdzie się kalendarz, lista zadań do zrobienia oraz proste statystyki postępów.
